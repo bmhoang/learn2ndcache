@@ -26,4 +26,5 @@ class BookController {
   Book getBook(@PathVariable Integer id) {
     bookService.getBook(id)
   }
+
 }
