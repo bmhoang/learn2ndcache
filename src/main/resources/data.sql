@@ -8,3 +8,6 @@ INSERT INTO book (id, first_name, last_name, career) VALUES
   (6, 'the six', 'Gates', 'Billion 24234 2423preneur'),
   (7, 'Bill', 'Gates', 'Billi 4234234 epreneur'),
   (8, 'Folrunsho', 'Alakija', 'Billionaire Oil Magnate');
+insert into author values(1,'John');
+insert into author_phones values(1,'233-233');
+insert into author_phones values(1,'333022');
